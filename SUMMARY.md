@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Bienvenidas](README.md)
+* [Ejercicio \#1](ejercicio-1.md)
 
