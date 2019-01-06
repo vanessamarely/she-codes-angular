@@ -1,4 +1,8 @@
-# Ejercicio \#1
+---
+description: ¡Determina el mayor entre dos números generados de manera aleatoria!
+---
+
+# 1. ¿Cuál es mayor? 🙌
 
 ## Can I become who I want to be?
 
