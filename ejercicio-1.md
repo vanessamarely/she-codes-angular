@@ -4,11 +4,15 @@ description: ¡Determina el mayor entre dos números generados de manera aleator
 
 # 1. ¿Cuál es mayor? 🙌
 
-## Can I become who I want to be?
+## Introducción 💪 <a id="1-introduccion"></a>
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Este desafío consiste en construir un juego en el que el usuario debe seleccionar el mayor entre dos números: [**¡Aquí puedes encontrar el demo!**](https://angular-zvms6e.stackblitz.io)\*\*\*\*
 
-## Have you had a chance to answer the previous question?
+¿Estás lista?
+
+**Por supuesto que estás lista, desde el día en que naciste 😝**
+
+## Paso \#1 
 
 Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
 
