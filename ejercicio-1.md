@@ -336,6 +336,6 @@ Parece que nuestra aplicación está lista excepto por un pequeño detalle 😵.
 ## 🎉 ¡**LO LOGRASTE!** 🎉
 
 {% hint style="success" %}
-Has completado el **desafío \#1**, ahora vamos a el **desafío \#2 👇**
+Has completado el **desafío \#2**, ahora vamos a el **desafío \#3 👇**
 {% endhint %}
 
