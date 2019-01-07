@@ -319,7 +319,9 @@ Analiza el código. ¿Parece coherente? 👆
 **3.** Notarás que el primer botón pasamos **leftNumber** y luego **rightNumber**, pero en el segundo botón invertimos el orden. Esto es porque la función que creamos va a determinar si el **primer parámetro** que se le pasó es mayor que el **segundo parámetro**. ⭐️
 {% endhint %}
 
-¡Revisa tu aplicación! Cada vez que hagas click en un botón debería generar nuevos números aleatorios. 📱
+**¡Revisa tu aplicación!**
+
+Cada vez que hagas click en un botón debería generar nuevos números aleatorios. 📱
 
 ## 😎 Tu Misión 😎
 
