@@ -103,5 +103,5 @@ Ahora nuestra aplicación debería verse mucho mejor: 👇
 Has completado el **desafío \#1**, ahora vamos a el **desafío \#2 👇**
 {% endhint %}
 
-\*\*\*\*[**Aquí**](https://stackblitz.com/edit/greater-than?file=src%2Fapp%2Fapp.component.html) puedes encontrar el ejercicio resueto.
+\*\*\*\*[**Aquí**](https://stackblitz.com/edit/greater-than?file=src%2Fapp%2Fapp.component.html) puedes encontrar el ejercicio resuelto.
 
