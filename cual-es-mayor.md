@@ -1,7 +1,3 @@
----
-description: "¡Ha llegado el momento de hacer algo más rimbombante! Construyamos un videojuego \uD83D\uDE4C"
----
-
 # 2. ¿Cuál es mayor? 🙌
 
 ## 💡 Introducción 💡 <a id="1-introduccion"></a>

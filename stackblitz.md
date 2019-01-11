@@ -1,7 +1,3 @@
----
-description: "¡Bienvenida al primer desafío de NgGirls! \uD83D\uDC83, aquí aprenderás a usar Stackblitz, la manera más fácil de aprender Angular! \uD83C\uDD70"
----
-
 # 1. ¡Utiliza Stackblitz! ⚡
 
 [**Stackblitz**](https://stackblitz.com/) ****es una página web que te permite crear aplicaciones de Angular en el navegador. Eso quiere decir que no tienes que instalar nada más! 😎
