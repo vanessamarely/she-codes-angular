@@ -1,7 +1,3 @@
----
-description: "Primero que todo, nos alegra mucho tenerte aquí, nuestra misión es ayudarte a que te sientas cómoda todo el tiempo. Si en algún momento necesitas ayuda, no dudes en buscarnos, estamos aquí para ti. \uD83D\uDE09"
----
-
 # 💃 Bienvenidas 💃
 
 ## 1. Introducción 💪

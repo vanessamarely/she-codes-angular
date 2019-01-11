@@ -1,12 +1,8 @@
----
-description: "¡Ha llegado el momento de hacer algo más rimbombante! Construyamos un videojuego \uD83D\uDE4C"
----
-
 # 2. ¿Cuál es mayor? 🙌
 
 ## 💡 Introducción 💡 <a id="1-introduccion"></a>
 
-Este desafío consiste en construir un juego en el que el usuario debe seleccionar el mayor entre dos números generados aleatoriamente: [**¡Aquí puedes encontrar el demo!**](https://angular-zvms6e.stackblitz.io)\*\*\*\*
+Este desafío consiste en construir un juego en el que el usuario debe seleccionar el mayor entre dos números generados aleatoriamente: [**¡Aquí puedes encontrar el demo!**](https://greater-than.stackblitz.io)\*\*\*\*
 
 ¿Estás lista?
 
